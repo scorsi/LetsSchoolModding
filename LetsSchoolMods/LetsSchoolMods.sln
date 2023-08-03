@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UtilityMod", "UtilityMod\UtilityMod.csproj", "{4BF0A7D3-6A25-4543-A6E4-6EDCF9B5AD44}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3EFC6D2A-27A6-482A-A910-9E266B40FC26}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3EFC6D2A-27A6-482A-A910-9E266B40FC26}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3EFC6D2A-27A6-482A-A910-9E266B40FC26}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3EFC6D2A-27A6-482A-A910-9E266B40FC26}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4F7DC662-1FD3-46C8-8FCC-67728748149B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F7DC662-1FD3-46C8-8FCC-67728748149B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F7DC662-1FD3-46C8-8FCC-67728748149B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F7DC662-1FD3-46C8-8FCC-67728748149B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ADD309E1-06A1-4A0D-9928-A842A45816B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ADD309E1-06A1-4A0D-9928-A842A45816B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ADD309E1-06A1-4A0D-9928-A842A45816B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ADD309E1-06A1-4A0D-9928-A842A45816B9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4BF0A7D3-6A25-4543-A6E4-6EDCF9B5AD44}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4BF0A7D3-6A25-4543-A6E4-6EDCF9B5AD44}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4BF0A7D3-6A25-4543-A6E4-6EDCF9B5AD44}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4BF0A7D3-6A25-4543-A6E4-6EDCF9B5AD44}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{3EFC6D2A-27A6-482A-A910-9E266B40FC26} = {44C49289-A85E-4E0B-BDB8-CD5AFAC61699}
+	EndGlobalSection
+EndGlobal
